@@ -1,0 +1,47 @@
+{
+  "pseudo": "Daviv09",
+  "wallet_overview": [
+    {
+      "token": "eth",
+      "amount": 0.20
+    },
+    {
+      "token": "sol",
+      "amount": 10
+    },
+    {
+      "token": "atom",
+      "amount": 80
+    },
+    {
+      "token": "evmos",
+      "amount": 550
+    },
+    {
+      "token": "osmo",
+      "amount": 260
+    },
+    {
+      "token": "cake",
+      "amount": 180
+    },
+    {
+      "token": "dolz",
+        "amount": 70000,
+        "price": 0.01269
+    },
+    {
+      "token": "juno",
+      "amount": 55
+    },
+    {
+      "token": "stz",
+        "amount": 2800,
+        "price": 0.00094023
+    },
+    {
+      "token": "axl",
+      "amount": 205
+    }
+  ]
+}
