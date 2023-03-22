@@ -2,14 +2,13 @@ import requests
 import json
 
 
-
 def load_json_file():
     with open("wallet.json") as f:
         return json.loads(f.read())
 
 
 def send_http_post(json_obj):
-    r = requests.post('https://mythologic.fr:8080', json=json_obj)
+    r = requests.post('https://mythologic.fr/minotor/wallets/add', json=json_obj)
     print(r.status_code, r.text)
 
 
