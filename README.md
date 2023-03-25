@@ -3,6 +3,8 @@ This is simple python script who read json and send them to minotor
 
 ## How to use
 
+to make things easy in life, please considerate on [windows to active extension file](https://support.microsoft.com/en-us/windows/common-file-name-extensions-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01#:~:text=If%20you%20don't%20see,File%20name%20extensions%20check%20box).
+
 ### install python 
 
 https://www.python.org/downloads/
