@@ -8,6 +8,7 @@ def load_json_file():
 
 
 def send_http_post(json_obj):
+    print('We are going to send {}'.format(json_obj))
     r = requests.post('https://mythologic.fr/minotor/wallets/add', json=json_obj)
     print(r.status_code, r.text)
 
