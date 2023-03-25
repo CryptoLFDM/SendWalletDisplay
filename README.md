@@ -79,6 +79,14 @@ there is a file wallet.json as example, please create a file wallet.json at the 
 
 ````
 
+
+### run the program
+
+```shell
+python SendDisplay.py
+```
+
+
 ## result you will get
 
 ````shell
